@@ -1,5 +1,5 @@
 # Build and Deploy Your Own Workout App
-
+![Mapty App](https://imgur.com/bXdKiJJ)
 
 ## The flowchart for the mapty app project
 
