@@ -3,4 +3,4 @@
 
 ## The flowchart for the mapty app project
 
-![Mapty App](https://imgur.com/mvx2iEJ)
+![Mapty App Flowchart](https://i.imgur.com/6nhtVqH.png)
