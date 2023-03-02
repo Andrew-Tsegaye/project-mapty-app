@@ -50,4 +50,9 @@ npm start
 If you find a bug or would like to contribute to the development of the Mapty App, you can submit an issue or a pull request on the project's GitHub page at https://github.com/Andrew-Tsegaye/project-mapty-app.
 
 ## License
-The News Website is open source software released under the MIT license. Feel free to use, modify, and distribute it as you see fit.
+The Mapty App is open source software released under the MIT license. Feel free to use, modify, and distribute it as you see fit.
+
+## Acknowledgments
+- This project was inspired by the book "JavaScript: The Definitive Guide" by David Flanagan.
+- Thanks to the Leaflet and Workout libraries for providing the core functionality of the app.
+- Special thanks to the online course and coding challenge that motivated me to build this project and learn new skills!
